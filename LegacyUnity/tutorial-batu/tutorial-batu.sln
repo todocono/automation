@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4B66BD40-5F77-78AA-5DED-AE1CD75995CF}") = "tutorial-batu", "Assembly-CSharp.csproj", "{FEA49F0C-CD39-BFA0-F4AA-2BD9072C48F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA49F0C-CD39-BFA0-F4AA-2BD9072C48F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA49F0C-CD39-BFA0-F4AA-2BD9072C48F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA49F0C-CD39-BFA0-F4AA-2BD9072C48F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA49F0C-CD39-BFA0-F4AA-2BD9072C48F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
